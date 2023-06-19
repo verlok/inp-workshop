@@ -46,7 +46,7 @@ Just follow along with a static version: [mmocny.com/inp-workshop/](https://mmoc
 19. [Strategy 2: interrupt long running work](https://github.com/malchata/inp-workshop/blob/main/guide/19-interrupt.md)
 20. [Strategy 2: now with `yield()`](https://github.com/malchata/inp-workshop/blob/main/guide/20-now-yield.md)
 21. [Strategy 2: now with `AbortContoller()`](https://github.com/malchata/inp-workshop/blob/main/guide/21-abortcontroller.md)
-21. [Conclusion](https://github.com/malchata/inp-workshop/blob/main/guide/22-conclusion.md)
+22. [Conclusion](https://github.com/malchata/inp-workshop/blob/main/guide/22-conclusion.md)
 
 ## Next Demo: Taking lessons to ReactJS site
 
