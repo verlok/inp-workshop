@@ -11,4 +11,4 @@ And, review from earlier lessons:
 * Move needless code out of event handlers until after next paint
 * Make sure the Rendering update itself is efficient for browser
 
-**Next: [Conclusion](https://github.com/malchata/inp-workshop/guides/22-conclusion.md)**
+**Next: [Conclusion](https://github.com/malchata/inp-workshop/blob/main/guide/22-conclusion.md)**

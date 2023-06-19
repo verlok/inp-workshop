@@ -30,4 +30,4 @@ Asynchronous effects, such as updates that come after timers or network response
 
 Another example: a `fetch()` or resource attached to dom elements, which is already prefetched may actually be available before the next rendering opportunity.
 
-**Next: [Lesson: if you cannot remove it, at least move it!](https://github.com/malchata/inp-workshop/guides/14-move-it.md)**
+**Next: [Lesson: if you cannot remove it, at least move it!](https://github.com/malchata/inp-workshop/blob/main/guide/14-move-it.md)**

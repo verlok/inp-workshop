@@ -15,4 +15,4 @@ button.addEventListener("click", () => {
 ```
 </details>
 
-**Next: [Look at tooling](https://github.com/malchata/inp-workshop/guides/12-look-at-tooling.md)**
+**Next: [Look at tooling](https://github.com/malchata/inp-workshop/blob/main/guide/12-look-at-tooling.md)**

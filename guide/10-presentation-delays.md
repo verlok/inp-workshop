@@ -24,4 +24,4 @@ Some Examples, commonly found on the web
 * A search page offers complex search filters with dynamic UI, but runs expensive handlers to do so.
 * One Dark mode toggle triggers style/layout for the whole page
 
-**Next: [Experiment: `requestAnimationFrame`](https://github.com/malchata/inp-workshop/guides/11-raf.md)**
+**Next: [Experiment: `requestAnimationFrame`](https://github.com/malchata/inp-workshop/blob/main/guide/11-raf.md)**

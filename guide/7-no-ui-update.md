@@ -16,4 +16,4 @@ button.addEventListener("click", () => {
 * Score does not update&mdash;but the page still does!
 * Animations, CSS effects, default web component actions (form input), text entry, text highlightling...
 
-**Next: [Experiment: input delay](https://github.com/malchata/inp-workshop/guides/8-input-delay.md)**
+**Next: [Experiment: input delay](https://github.com/malchata/inp-workshop/blob/main/guide/8-input-delay.md)**

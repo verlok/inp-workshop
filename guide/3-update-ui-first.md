@@ -15,4 +15,4 @@ button.addEventListener("click", () => {
 ```
 </details>
 
-**[Experiment: separate handlers](https://github.com/malchata/inp-workshop/guides/4-separate-handlers.md)**
+**[Experiment: separate handlers](https://github.com/malchata/inp-workshop/blob/main/guide/4-separate-handlers.md)**

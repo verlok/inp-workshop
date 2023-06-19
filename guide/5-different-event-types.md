@@ -21,4 +21,4 @@ button.addEventListener("pointerup", () => {
 
 </details>
 
-**Next: [Takeaway](https://github.com/malchata/inp-workshop/guides/6-takeaway.md)**
+**Next: [Takeaway](https://github.com/malchata/inp-workshop/blob/main/guide/6-takeaway.md)**
