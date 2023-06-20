@@ -8,7 +8,7 @@ A interactive demo and workshop for learning about [Interaction to Next Paint (I
 
 ### Option 1
 
-1. Clone [this repository](https://github.com/mmocny/inp-workshop)
+1. Clone [this repository](https://github.com/malchata/inp-workshop)
 2. `npm install`
 3. `npm run start`
 
