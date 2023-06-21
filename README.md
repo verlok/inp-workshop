@@ -6,22 +6,7 @@ A interactive demo and workshop for learning about [Interaction to Next Paint (I
 
 ## Getting started
 
-### Option 1
-
-1. Clone [this repository](https://github.com/malchata/inp-workshop)
-2. `npm install`
-3. `npm run start`
-
-### Option 2
-
-Use a cloud editor, such as [CodeSandbox.io](https://codesandbox.io)
-
-1. [Open this repo in CodeSandbox.io](https://codesandbox.io/p/github/mmocny/inp-workshop).
-2. Create a branch so you can make edits
-
-### Option 3
-
-Just follow along with a static version: [mmocny.com/inp-workshop/](https://mmocny.com/inp-workshop/)
+There is a static version of this workshop you can follow along with at [http://inp.jeremy.codes/](http://inp.jeremy.codes/)
 
 ## Table of contents
 
