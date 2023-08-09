@@ -1,17 +1,17 @@
 # Look at tooling
 
-On this page, responsiveness is super visual, with the scores and timers and the counter UI... but when testing the average page its more subtle.
+On this page, responsiveness is super visual, with the scores and timers and the counter UI... but when testing the average page it is more subtle.
 
-When interactions do run long, its not always clear what the culprit is. Is it:
+When interactions do run long, it's not always clear what the culprit is. Is it:
 
 * Input Delay
 * Event Processing Times
 * Presentation Delay
 
-On any page you want, you can use devtools to help measure responsiveness.
+On any page you want, you can use dev tools to help measure responsiveness.
 
 * INP scores in console
-  * JS already added by default to this demo...
+  * JS is already added by default to this demo...
   * Expand details to see breakdowns
   * You can install the web-vitals extension on Chrome Desktop
   * You can add this JavaScript yourself to any page

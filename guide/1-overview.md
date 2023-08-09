@@ -1,6 +1,6 @@
 # Overview of the app
 
-At the top of the page is a simple "Score" counter and "Increment" button. A classic demo of reactivity and responsiveness!
+At the top of the page is a simple "Score" counter and an "Increment" button. A classic demo of reactivity and responsiveness!
 
 Below are 4 metrics:
 
@@ -15,6 +15,6 @@ The FPS and Timer are not at all necessary for measuring Interactions. They are 
 
 Try to interact with the `Increment` button and watch the score increase.
 
-INP measures how long it takes&mdash;from the moment the user interacts, until the page actually shows the rendered update to the user.
+INP measures how long it takes, from the moment the user interacts until the page shows the rendered update to the user.
 
-**Next: [Experiment: Long running Event Handlers](https://github.com/malchata/inp-workshop/blob/main/guide/2-long-event-handlers.md)**
+**Next: [Experiment: Long-running Event Handlers](https://github.com/malchata/inp-workshop/blob/main/guide/2-long-event-handlers.md)**

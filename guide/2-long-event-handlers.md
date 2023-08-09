@@ -1,4 +1,4 @@
-# Experiment: long running event handlers
+# Experiment: long-running event handlers
 
 Open the `index.js` file, and comment out the `blockFor` function inside the event handler.
 

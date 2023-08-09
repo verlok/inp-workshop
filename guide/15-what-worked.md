@@ -1,4 +1,4 @@
-# What worked, what did not?
+# What worked, and what did not?
 
 Trick: `requestAnimationFrame` + `setTimeout`, a simple polyfill for `requestPostAnimationFrame`.
 

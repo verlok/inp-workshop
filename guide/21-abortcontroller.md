@@ -2,7 +2,7 @@
 
 That worked... but it scheduled more work with each new interaction.
 
-With Option 1: `debounce()`, we cancelled the previous timeout with each new interaction. Can we do something similar here?
+With Option 1: `debounce()`, we canceled the previous timeout with each new interaction. Can we do something similar here?
 
 One easy way is to use an `AbortController()`:
 

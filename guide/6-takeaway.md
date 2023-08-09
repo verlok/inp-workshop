@@ -4,8 +4,8 @@
 
 * That includes handlers registered from different scripts...
 * That includes framework or library code that runs in handlers.
-  * For example: a state update that triggers a component render.
-* Not only your own code, but also all third party scripts.
+* For example, a state update that triggers a component render.
+* Not only your code but also all third-party scripts.
 
 It's a common problem!
 

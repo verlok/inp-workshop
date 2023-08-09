@@ -8,7 +8,7 @@ Even if the page update comes quickly, the browser may still have to work hard t
 
 * On the main thread:
   * UI frameworks that need to render updates after state changes
-  * DOM changes, or toggling many expensive CSS query selectors can trigger lots of Style, Layout, Paint.
+  * DOM changes, or toggling many expensive CSS query selectors can trigger lots of Style, Layout, and Paint.
 * Off the main thread:
   * Using CSS to power GPU effects
   * Adding very large high-resolution images
@@ -20,7 +20,7 @@ Even if the page update comes quickly, the browser may still have to work hard t
 
 Some Examples, commonly found on the web
 
-* An SPA site rebuilds the whole page DOM after link click, without pausing to provide an initial visual feedback.
+* An SPA site rebuilds the whole page DOM after a link is clicked, without pausing to provide initial visual feedback.
 * A search page offers complex search filters with dynamic UI, but runs expensive handlers to do so.
 * One Dark mode toggle triggers style/layout for the whole page
 

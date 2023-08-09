@@ -1,6 +1,6 @@
 # Experiment: update UI first
 
-What happens if you swap the order of js calls -- updateUI() first, then block()?
+What happens if you swap the order of js calls -- `updateUI()` first, then `block()`?
 
 Did you notice the UI appear earlier?  Does the order affect INP scores?
 

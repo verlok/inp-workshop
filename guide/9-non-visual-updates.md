@@ -18,7 +18,7 @@ button.addEventListener("click", () => {
 
 INP measures delays in visual updates (paint) after interactions... but not everything is visual.
 
-Console logs, network requests, local storage… these don't have to wait for browser rendering, and INP does not measure them&mdash;unless they *also* affect next paint.
+Console logs, network requests, local storage… these don't have to wait for browser rendering, and INP does not measure them, unless they *also* affect the next paint.
 
 (Actually, even DOM, style, layout, etc changes are observable right away, through JavaScript, just the pixel representation is delayed)
 

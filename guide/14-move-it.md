@@ -1,6 +1,6 @@
 # Lesson: if you cannot remove it, at least move it!
 
-If async effects aren't measured&mdash;that's a great place to put our long-running code!
+If async effects aren't measured, that's a great place to put our long-running code!
 
 Let's change to update the UI from the click handler, but run the blocking work from the timeout.
 

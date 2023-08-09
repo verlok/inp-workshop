@@ -4,8 +4,8 @@ A classic strategy... whenever interactions arrive in quick succession, and the 
 
 Useful for: autocomplete
 
-* Use `setTimeout` to delay starting expensive work, with a timer&mdash;perhaps 500-1000ms
-* save the timerid when you do so
+* Use `setTimeout` to delay starting expensive work, with a timer, perhaps 500-1000ms
+* save the timer ID when you do so
 * if a new interaction arrives, `clearTimeout` the previous
 
 <details>

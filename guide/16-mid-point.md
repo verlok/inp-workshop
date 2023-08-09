@@ -9,7 +9,7 @@ We are about to move into more complicated topics, but the most important lesson
 
 Lessons:
 
-* Don't have long running code (long tasks) on your pages
+* Don't have long-running code (long tasks) on your pages
 * Move needless code out of event handlers until after next paint
 * Make sure the Rendering update itself is efficient for browser
 
