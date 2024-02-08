@@ -26,4 +26,4 @@ button.addEventListener("click", () => {
 ```
 </details>
 
-**Next: [Strategy 2: interrupt long running work](https://github.com/malchata/inp-workshop/blob/main/guide/19-interrupt.md)**
+**Next: [Strategy 2: interrupt long running work](https://github.com/verlok/inp-workshop/blob/main/guide/19-interrupt.md)**

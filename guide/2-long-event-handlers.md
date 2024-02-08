@@ -25,4 +25,4 @@ When your site has slow responsiveness, we know from data that it increases rage
 
 For the few steps, let's not focus on rage clicks. We’ll come back to these. For now, let’s focus on fixing the performance of a single discrete interaction.
 
-**Next: [Experiment: Update UI first](https://github.com/malchata/inp-workshop/blob/main/guide/3-update-ui-first.md)**
+**Next: [Experiment: Update UI first](https://github.com/verlok/inp-workshop/blob/main/guide/3-update-ui-first.md)**

@@ -47,4 +47,4 @@ button.addEventListener("click", async () => {
 ```
 </details>
 
-**Next: [Mid-point summary](https://github.com/malchata/inp-workshop/blob/main/guide/16-mid-point.md)**
+**Next: [Mid-point summary](https://github.com/verlok/inp-workshop/blob/main/guide/16-mid-point.md)**

@@ -10,4 +10,4 @@ Strategies:
 * Optimize code to not be needlessly long-running
 * Abort stale work when a new interaction arrives.
 
-**Next: [Strategy 1: debounce](https://github.com/malchata/inp-workshop/blob/main/guide/18-debounce.md)**
+**Next: [Strategy 1: debounce](https://github.com/verlok/inp-workshop/blob/main/guide/18-debounce.md)**

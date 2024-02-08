@@ -17,4 +17,4 @@ Try to interact with the `Increment` button and watch the score increase.
 
 INP measures how long it takes, from the moment the user interacts until the page shows the rendered update to the user.
 
-**Next: [Experiment: Long-running Event Handlers](https://github.com/malchata/inp-workshop/blob/main/guide/2-long-event-handlers.md)**
+**Next: [Experiment: Long-running Event Handlers](https://github.com/verlok/inp-workshop/blob/main/guide/2-long-event-handlers.md)**

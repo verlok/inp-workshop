@@ -46,4 +46,4 @@ This strategy works especially well when scheduling entry points, like if you ha
 
 However, this strategy doesn't work as well for breaking apart tightly coupled code&mdash;like a `for` loop that uses a shared state.
 
-**Next: [Strategy 2: now with yield()](https://github.com/malchata/inp-workshop/blob/main/guide/20-now-yield.md)**
+**Next: [Strategy 2: now with yield()](https://github.com/verlok/inp-workshop/blob/main/guide/20-now-yield.md)**

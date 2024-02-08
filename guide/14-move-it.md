@@ -69,4 +69,4 @@ button.addEventListener("click", () => {
 ```
 </details>
 
-**Next: [What worked, what did not?](https://github.com/malchata/inp-workshop/blob/main/guide/15-what-worked.md)**
+**Next: [What worked, what did not?](https://github.com/verlok/inp-workshop/blob/main/guide/15-what-worked.md)**

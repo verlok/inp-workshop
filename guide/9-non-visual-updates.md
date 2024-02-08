@@ -29,4 +29,4 @@ The web has a simple, but unique system for task scheduling and rendering.
 * [web.dev/inp](https://web.dev/inp)
 * [web.dev/optimize-inp](https://web.dev/optimize-inp)
 
-**Next: [Discuss: presentation delays](https://github.com/malchata/inp-workshop/blob/main/guide/10-presentation-delays.md)**
+**Next: [Discuss: presentation delays](https://github.com/verlok/inp-workshop/blob/main/guide/10-presentation-delays.md)**

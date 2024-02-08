@@ -13,4 +13,4 @@ Lessons:
 * Move needless code out of event handlers until after next paint
 * Make sure the Rendering update itself is efficient for browser
 
-**Next: [Multiple interactions (and rage clicks)](https://github.com/malchata/inp-workshop/blob/main/guide/17-multiple-interactions.md)**
+**Next: [Multiple interactions (and rage clicks)](https://github.com/verlok/inp-workshop/blob/main/guide/17-multiple-interactions.md)**

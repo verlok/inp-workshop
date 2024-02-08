@@ -39,4 +39,4 @@ button.addEventListener("click", async () => {
 
 * Caution: Yielding is good for responsiveness, because it allows scheduling Initial feedback and allows rendering... but doing it too much can affect overall CPU thoughput. You don't want to yield between every since line of code!
 
-**Next: [Conclusion](https://github.com/malchata/inp-workshop/blob/main/guide/22-conclusion.md)**
+**Next: [Conclusion](https://github.com/verlok/inp-workshop/blob/main/guide/22-conclusion.md)**

@@ -28,4 +28,4 @@ button.addEventListener("click", async () => {
 ```
 </details>
 
-**Next: [Strategy 2: now with `AbortContoller()`](https://github.com/malchata/inp-workshop/blob/main/guide/21-abortcontroller.md)**
+**Next: [Strategy 2: now with `AbortContoller()`](https://github.com/verlok/inp-workshop/blob/main/guide/21-abortcontroller.md)**
