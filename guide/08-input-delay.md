@@ -27,4 +27,4 @@ Notice, it doesn't *always* affect my interactions!  If I'm not clicking when th
 
 One way to track these down is by measuring Long Tasks (or Long Animation Frames), and Total Blocking Time.
 
-**Next: [Experiment: what about non-visual updates?](https://github.com/verlok/inp-workshop/blob/main/guide/9-non-visual-updates.md)**
+**Next: [Experiment: what about non-visual updates?](https://github.com/verlok/inp-workshop/blob/main/guide/09-non-visual-updates.md)**

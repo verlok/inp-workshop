@@ -9,4 +9,4 @@
 
 It's a common problem!
 
-**Next: [Experiment: no UI update?](https://github.com/verlok/inp-workshop/blob/main/guide/7-no-ui-update.md)**
+**Next: [Experiment: no UI update?](https://github.com/verlok/inp-workshop/blob/main/guide/07-no-ui-update.md)**
