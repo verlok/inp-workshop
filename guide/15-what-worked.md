@@ -34,7 +34,7 @@ function afterNextPaint(callback) {
   });
 }
 
-async function nextPaint() {
+function nextPaint() {
   return new Promise(resolve => afterNextPaint(resolve));
 }
 
